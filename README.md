@@ -19,4 +19,8 @@ A modern, responsive, and interactive frontend application designed for a SaaS p
 1. Clone this repository.
 2. Install dependencies:
    ```bash
-   npm install
+   npm instal
+
+
+## 🌐 Live Deployment
+https://saa-s-product-landing-page-customer.vercel.app/
